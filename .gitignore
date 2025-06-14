@@ -75,5 +75,6 @@ DerivedDataCache/*
 
 .vsconfig
 */__ExternalActors__/*
+*/__ExternalObjects__/*
 *.htm
 *.sln
